@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ebtehal Abuhassan! 👋
 
-<!--
-**EbtehalAbuhassan/EbtehalAbuhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img  src="https://export-download.canva.com/DaWQ0/DAFd8cDaWQ0/7/0/0001-1331806823.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230322T144206Z&X-Amz-Expires=15805&X-Amz-Signature=9cf7d79981343eb3561cb735447e49d72c0c045ffed8bff49881c5e1b58bd6b9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Navy%2520Geometric%2520Technology%2520LinkedIn%2520Banner.png&response-expires=Wed%2C%2022%20Mar%202023%2019%3A05%3A31%20GMT"  >
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
