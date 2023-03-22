@@ -6,13 +6,19 @@
     🔒 I work on full-stack delivery applications using NodeJs, MongoDB, ReactJs, CSS, and HTML.
     📌The app has the following features:
           🔶  shop by categories, show products, add to cart, add to the favorite list
+          
           🔶  locating users using Geolocation-google map.
+          
           🔶  payment methods using the StripeJs
+          
           🔶  Delete the order or follow up on the order by changing the status.
+          
           🔶  Authentication, and Authorization, JSON Web Token.
+          
           🔶 sign in with google
-
-<a href="https://reactjs.org/" target="blank">
+          
+          
+          <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
 <a href="https://www.mongodb.com/" target="blank">
@@ -31,3 +37,5 @@
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
+
+
