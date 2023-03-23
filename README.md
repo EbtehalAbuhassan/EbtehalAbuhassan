@@ -1,13 +1,29 @@
 <img  src="https://export-download.canva.com/DaWQ0/DAFd8cDaWQ0/12/0/0001-1405526682.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230322T220035Z&X-Amz-Expires=74459&X-Amz-Signature=eb39864fd91e0c5dfa9a6e0c9d3ffab6b65a00f58e8e645962f7e5c1b5c7a15e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Navy%2520Geometric%2520Technology%2520LinkedIn%2520Banner.png&response-expires=Thu%2C%2023%20Mar%202023%2018%3A41%3A34%20GMT"  >
 Hi there, I'm Ebtehal! 👋🔥 
 
+I'm a full-stack developer with highly developed skills😌
+always willing to learn new skills and move forward to be the best version of myself.💪
+
+📄 my skills:
+
+   ☑️ Time management skills
+   
+   ☑️ Adaptable
+   
+   ☑️ Enjoy helping people
+   
+   ☑️ self motivated
+   
+   ☑️ solution focused
+   
+
 📄 my experiences:
 
    ⚡️ Grocery Delivery Application
    
-    🔒 I work on full-stack delivery applications using NodeJs, MongoDB, ReactJs, CSS, and HTML.
+    ✅ I work on full-stack delivery applications using NodeJs, MongoDB, ReactJs, CSS, and HTML.
     
-    📌The app has the following features:
+    🔻 The app has the following features:
     
           🔶  shop by categories, show products, add to cart, add to the favorite list
           
